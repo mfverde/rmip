@@ -1,12 +1,12 @@
 # Resarch Methods in Practice (Part 2)
 
-# Insert topic name
+# Memory
 
 ## Overview
 
 Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. The topic should be reasonably broad, e.g. Reasoning, Memory, Learning.
 
-## Insert sub-topic 1 name
+## Testing Effect
 
 ### Overview
 
